@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOSHIBA</Machine>
+    <WindowsUser>Kirby</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>b7d54638-8e4d-430e-8115-e42604651c29</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>47A90DCF5CF5A9ED15D0A3FAEDE8D17A0457CE3E1CF82AC495FA084532875044</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-04-01T04:51:44.921</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2016-04-01T04:36:50.269</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2016-03-19T21:05:59.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Door Control.dll">
+      <PackagePath>Door Control.dll</PackagePath>
+      <Modified>2016-04-01T04:51:44.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Door Control.exe">
+      <PackagePath>Door Control.exe</PackagePath>
+      <Modified>2016-04-01T04:51:44.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Microsoft.Maker.Firmata.dll">
+      <PackagePath>Microsoft.Maker.Firmata.dll</PackagePath>
+      <Modified>2016-03-19T21:17:03.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Microsoft.Maker.Firmata.winmd">
+      <PackagePath>Microsoft.Maker.Firmata.winmd</PackagePath>
+      <Modified>2016-03-19T21:17:03.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Microsoft.Maker.RemoteWiring.dll">
+      <PackagePath>Microsoft.Maker.RemoteWiring.dll</PackagePath>
+      <Modified>2016-03-19T21:17:03.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Microsoft.Maker.RemoteWiring.winmd">
+      <PackagePath>Microsoft.Maker.RemoteWiring.winmd</PackagePath>
+      <Modified>2016-03-19T21:17:03.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Microsoft.Maker.Serial.dll">
+      <PackagePath>Microsoft.Maker.Serial.dll</PackagePath>
+      <Modified>2016-03-19T21:17:03.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\Microsoft.Maker.Serial.winmd">
+      <PackagePath>Microsoft.Maker.Serial.winmd</PackagePath>
+      <Modified>2016-03-19T21:17:03.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\kirby\documents\visual studio 2015\Projects\Door Control\Door Control\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-04-01T04:51:00.273</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
