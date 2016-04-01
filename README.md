@@ -1,6 +1,6 @@
 # DoorControl
 
-This project uses and Arduino MKR1000, Adafruit Metro Mini, Adafruit PowerBoost 1000C, and a Lockitron to unlock a door via RFID.
+This project uses and [Arduino MKR1000](http://www.arduino.cc/en/Main/ArduinoMKR1000), [Adafruit Metro Mini](https://www.adafruit.com/products/2590), [Adafruit PowerBoost 1000C](https://www.adafruit.com/products/2465?gclid=CL3RyvPU7csCFZCIaQodzmoI8A), and a [Lockitron](https://www.adafruit.com/products/2579) to unlock a door via RFID.
 You can also use the Windows 10 app to control it via your phone.
 
 
