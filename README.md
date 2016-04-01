@@ -19,4 +19,5 @@ Here are some links that were helpful when working on this project.
 * https://blogs.msdn.microsoft.com/madenwal/2015/11/24/generating-your-tileicon-image-assets-for-windows-10-uwp-using-photoshop-actions/ - Generating assets for Windows 10
 * https://msdn.microsoft.com/en-us/library/hh454036.aspx#BeforePackaging - Packaging Universal Windows apps for Windows 10
 * https://github.com/ms-iot/remote-wiring-experience - source code for Windows Remote Arduino Experience
-
+* https://learn.sparkfun.com/tutorials/lockitron-hardware-hookup-guide - Lockitron hookup guide
+* 
