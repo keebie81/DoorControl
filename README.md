@@ -6,8 +6,7 @@ You can also use the Windows 10 app to control it via your phone.
 
 ## Installation
 
-Put FirmataStandardWiFi on the Arduino MKR1000 - https://github.com/firmata/arduino
-Put the doorcontrol.ino sketch on the Adafruit Metro Mini
+I created a Hackster.io tutorial for this https://www.hackster.io/keebie81/rfid-door-unlock-fa66ea
 
 
 ## Credits
